@@ -1,0 +1,190 @@
+﻿CODE,Salesperson
+E27,Abbey
+P14,Advanced Control
+E44,Applied Tech
+P24,Applied Power CO
+W23,Bob Jones 
+P04,Cal North
+P26,Cal North
+P19,Cal South
+E24,Cover 2 sales
+E26,Depco 
+W20,EPI
+W27,EPI
+E07,Intercomm
+W10,Fusion 
+W21,Fusion 
+W18,Fusion 
+W09,Fusion 
+S10,Graham
+E25,Comptech
+E17,Pinnacle 
+E14,Pinnacle 
+E28,Promark
+E22,Tangent Group
+E41,Transit
+E42,Transit
+P43,Transit
+S13,Wallace
+S14,Wallace
+S15,Wallace
+S16,Wallace
+S20,Wallace
+E11,Steve (House)
+HX1,House
+H01,House
+H02,House
+W13,House
+HX2,CAL INDUSTRIAL SALES SOUTH    
+IA2,Rivers Associates             
+IA3,Rivers Associates             
+IA4,GENTILE & ASSOCIATES AZ-NM    
+IC1,JPH GROUP                     
+IC2,GENTILE & ASSOCIATES CA       
+IC3,"REP MASTER, INC               "
+IC4,C. PINE ASSOCIATES            
+IC5,R. STEPHEN ROSS ASSOCIATES    
+IC6,CRAIG T CHANCE                
+ID1,C. PINE ASSOCIATES            
+ID2,C. PINE ASSOCIATES            
+IF1,El Schneider and Associates   
+IG1,Rivers Associates             
+IH1,GENTILE & ASSOCIATES HI-NV    
+II1,WARREN THOMA  ASSOCIATES      
+II2,INMAN INTERWEST INC.          
+II3,WARREN THOMA  ASSOCIATES      
+II4,WARREN THOMA  ASSOCIATES      
+IK1,WARREN THOMA  ASSOCIATES      
+IK2,WARREN THOMA  ASSOCIATES      
+IL1,Rivers Associates             
+IM1,C. PINE ASSOCIATES            
+IM2,C. PINE ASSOCIATES            
+IM3,C. PINE ASSOCIATES            
+IM4,WARREN THOMA  ASSOCIATES      
+IM5,WARREN THOMA  ASSOCIATES      
+IM6,WARREN THOMA  ASSOCIATES      
+IM7,Rivers Associates             
+IM8,"REP MASTER, INC               "
+IN1,WARREN THOMA  ASSOCIATES      
+IN2,WARREN THOMA  ASSOCIATES      
+IN3,WARREN THOMA  ASSOCIATES      
+IN4,C. PINE ASSOCIATES            
+IN5,C. PINE ASSOCIATES            
+IN6,GENTILE & ASSOCIATES AZ-NM    
+IN7,JPH GROUP                     
+IN8,GENTILE & ASSOCIATES HI-NV    
+IN9,C. PINE ASSOCIATES            
+IO1,WARREN THOMA  ASSOCIATES      
+IO2,"O'NEILL & DUNBAR, INC         "
+IO3,CRAIG T CHANCE                
+IP1,C. PINE ASSOCIATES            
+IP2,WARREN THOMA  ASSOCIATES      
+IR1,C. PINE ASSOCIATES            
+IS1,Rivers Associates             
+IS2,WARREN THOMA  ASSOCIATES      
+IT1,Rivers Associates             
+IT2,"O'NEILL & DUNBAR, INC         "
+IU1,INMAN INTERWEST INC.          
+IV1,Rivers Associates             
+IV2,C. PINE ASSOCIATES            
+IW1,CRAIG T CHANCE                
+IW2,WARREN THOMA  ASSOCIATES      
+IW3,WARREN THOMA  ASSOCIATES      
+IW4,"REP MASTER, INC               "
+PA2,Rivers Associates             
+PA3,Rivers Associates             
+PA4,GENTILE & ASSOCIATES AZ-NM    
+PC1,JPH GROUP                     
+PC2,CARRHILL COMPANY              
+PC3,"REP MASTER, INC               "
+PC4,C. PINE ASSOCIATES            
+PC5,R. STEPHEN ROSS ASSOCIATES    
+PC6,CRAIG T CHANCE                
+PD1,C. PINE ASSOCIATES            
+PD2,C. PINE ASSOCIATES            
+PF1,El Schneider and Associates   
+PG1,Rivers Associates             
+PH1,GENTILE & ASSOCIATES HI-NV    
+PI1,WARREN THOMA  ASSOCIATES      
+PI2,INMAN INTERWEST INC.          
+PI3,WARREN THOMA  ASSOCIATES      
+PI4,WARREN THOMA  ASSOCIATES      
+PK1,WARREN THOMA  ASSOCIATES      
+PK2,WARREN THOMA  ASSOCIATES      
+PL1,Rivers Associates             
+PM1,C. PINE ASSOCIATES            
+PM2,C. PINE ASSOCIATES            
+PM3,C. PINE ASSOCIATES            
+PM4,WARREN THOMA  ASSOCIATES      
+PM5,WARREN THOMA  ASSOCIATES      
+PM6,WARREN THOMA  ASSOCIATES      
+PM7,Rivers Associates             
+PM8,"REP MASTER, INC               "
+PN1,WARREN THOMA  ASSOCIATES      
+PN2,WARREN THOMA  ASSOCIATES      
+PN3,WARREN THOMA  ASSOCIATES      
+PN4,C. PINE ASSOCIATES            
+PN5,C. PINE ASSOCIATES            
+PN6,GENTILE & ASSOCIATES AZ-NM    
+PN7,JPH GROUP                     
+PN8,GENTILE & ASSOCIATES HI-NV    
+PN9,C. PINE ASSOCIATES            
+PO1,WARREN THOMA  ASSOCIATES      
+PO2,"O'NEILL & DUNBAR, INC         "
+PO3,CRAIG T CHANCE                
+PP1,C. PINE ASSOCIATES            
+PP2,WARREN THOMA  ASSOCIATES      
+PR1,C. PINE ASSOCIATES            
+PS1,Rivers Associates             
+PS2,WARREN THOMA  ASSOCIATES      
+PT1,Rivers Associates             
+PT2,"O'NEILL & DUNBAR, INC         "
+PU1,INMAN INTERWEST INC.          
+PV1,Rivers Associates             
+PV2,C. PINE ASSOCIATES            
+PW1,CRAIG T CHANCE                
+PW2,WARREN THOMA  ASSOCIATES      
+PW3,WARREN THOMA  ASSOCIATES      
+PW4,"REP MASTER, INC               "
+R00,GOVE DESIGN SERVICES INC      
+VA2,Rivers Associates             
+VA3,Rivers Associates             
+VA4,GENTILE & ASSOCIATES AZ-NM    
+VC1,Cal Industrial Sales          
+VC2,ERI REPRESENTATIVES           
+VC3,"REP MASTER, INC               "
+VC4,C. PINE ASSOCIATES            
+VC5,R. STEPHEN ROSS ASSOCIATES    
+VC6,CRAIG T CHANCE                
+VD1,C. PINE ASSOCIATES            
+VD2,C. PINE ASSOCIATES            
+VF1,El Schneider and Associates   
+VG1,Rivers Associates             
+VH1,GENTILE & ASSOCIATES HI-NV    
+VI2,INMAN INTERWEST INC.          
+VL1,Rivers Associates             
+VM1,C. PINE ASSOCIATES            
+VM2,C. PINE ASSOCIATES            
+VM3,C. PINE ASSOCIATES            
+VM7,Rivers Associates             
+VM8,"REP MASTER, INC               "
+VN1,WARREN THOMA  ASSOCIATES      
+VN4,C. PINE ASSOCIATES            
+VN5,C. PINE ASSOCIATES            
+VN6,GENTILE & ASSOCIATES AZ-NM    
+VN7,Cal Industrial Sales          
+VN8,ERI REPRESENTATIVES           
+VN9,C. PINE ASSOCIATES            
+VO2,"O'NEILL & DUNBAR, INC         "
+VO3,CRAIG T CHANCE                
+VP1,C. PINE ASSOCIATES            
+VR1,C. PINE ASSOCIATES            
+VS1,Rivers Associates             
+VT1,Rivers Associates             
+VT2,"O'NEILL & DUNBAR, INC         "
+VU1,INMAN INTERWEST INC.          
+VV1,Rivers Associates             
+VV2,C. PINE ASSOCIATES            
+VW1,CRAIG T CHANCE                
+VW4,"REP MASTER, INC               "
+ENV,ASR100
